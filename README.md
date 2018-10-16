@@ -10,7 +10,7 @@ Set the name of the workflow and then add some paths of everything you want: fil
 when you done, type -1.
 Now just write the name of the workflow, and all of the paths will be open for you.
 
-# When is the data saved?
+# Where is the data saved?
 The data is saved to a separate .db file in the same directory, so when you move the .exe file, a new and empty .db 
 file will be created.
 
